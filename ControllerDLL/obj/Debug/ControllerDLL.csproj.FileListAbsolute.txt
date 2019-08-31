@@ -1,0 +1,7 @@
+C:\Users\Dima\documents\visual studio 2012\Projects\Calculator\ControllerDLL\bin\Debug\ControllerDLL.dll
+C:\Users\Dima\documents\visual studio 2012\Projects\Calculator\ControllerDLL\bin\Debug\ControllerDLL.pdb
+C:\Users\Dima\documents\visual studio 2012\Projects\Calculator\ControllerDLL\obj\Debug\ControllerDLL.csprojResolveAssemblyReference.cache
+C:\Users\Dima\documents\visual studio 2012\Projects\Calculator\ControllerDLL\obj\Debug\ControllerDLL.dll
+C:\Users\Dima\documents\visual studio 2012\Projects\Calculator\ControllerDLL\obj\Debug\ControllerDLL.pdb
+C:\Users\Dima\documents\visual studio 2012\Projects\Calculator\ControllerDLL\bin\Debug\ModelDLL.dll
+C:\Users\Dima\documents\visual studio 2012\Projects\Calculator\ControllerDLL\bin\Debug\ModelDLL.pdb

@@ -1,0 +1,4 @@
+C:\Users\Dima\documents\visual studio 2012\Projects\Calculator\ModelDLL\bin\Debug\ModelDLL.dll
+C:\Users\Dima\documents\visual studio 2012\Projects\Calculator\ModelDLL\bin\Debug\ModelDLL.pdb
+C:\Users\Dima\documents\visual studio 2012\Projects\Calculator\ModelDLL\obj\Debug\ModelDLL.dll
+C:\Users\Dima\documents\visual studio 2012\Projects\Calculator\ModelDLL\obj\Debug\ModelDLL.pdb

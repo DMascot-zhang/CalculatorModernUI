@@ -1,0 +1,15 @@
+c:\users\dima\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Dima\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Dima\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Dima\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Dima\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Dima\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Dima\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Dima\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\MetroFramework.dll
+C:\Users\Dima\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Dima\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.BaseForm.resources
+C:\Users\Dima\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Dima\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\ControllerDLL.dll
+C:\Users\Dima\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\ControllerDLL.pdb
+C:\Users\Dima\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\ModelDLL.dll
+C:\Users\Dima\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\ModelDLL.pdb
