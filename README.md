@@ -1,4 +1,4 @@
-# CalculatorModernUI
+# CalculatorModernUI By Dmitriy Demin
 Калькулятор на основе MetroFramework выполняет такие операции как сложение, умножение, деление и вычитание на основе польской нотации,
 сохраняет приоритеты операций, также имеются скобки (No Debug) 
-Автор Dmitriy Demin
+
